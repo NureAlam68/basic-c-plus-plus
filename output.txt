@@ -1,3 +1,4 @@
-100 A
-2.34
-My favorite number is 100
+33
+A
+33.55
+97
