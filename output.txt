@@ -1,0 +1,3 @@
+100 A
+2.34
+My favorite number is 100
